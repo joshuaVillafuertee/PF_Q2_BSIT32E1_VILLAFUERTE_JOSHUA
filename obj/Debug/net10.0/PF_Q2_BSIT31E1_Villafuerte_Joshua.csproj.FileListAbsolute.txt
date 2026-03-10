@@ -1,0 +1,9 @@
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\PF_Q2_BSIT31E1_Villafuerte_Joshua.csproj.AssemblyReference.cache
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\PF_Q2_BSIT31E1_Villafuerte_Joshua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\PF_Q2_BSIT31E1_Villafuerte_Joshua.AssemblyInfoInputs.cache
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\PF_Q2_BSIT31E1_Villafuerte_Joshua.AssemblyInfo.cs
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\PF_Q2_BSIT31E1_Villafuerte_Joshua.csproj.CoreCompileInputs.cache
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\PF_Q2_BSIT31E1_Villafuerte_Joshua.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\PF_Q2_BSIT31E1_Villafuerte_Joshua.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joshua\Downloads\PF_Q2_BSIT32E1_VILLAFUERTE_JOSHUA\obj\Debug\net10.0\PF_Q2_BSIT31E1_Villafuerte_Joshua.sourcelink.json
